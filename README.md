@@ -9,7 +9,7 @@ First project in Django to create a crud web api
 
 ## Poetry
 To install and use Poetry for managing Python dependencies and packaging:
-For linux/mac:\
-* curl -sSL https://install.python-poetry.org | python3 -\
-For Windows:\
-* (Invoke-WebRequest -Uri https://install.python-poetry.org -UseBasicParsing).Content | python -\
+For linux/mac:
+* curl -sSL https://install.python-poetry.org | python3 -
+For Windows:
+* (Invoke-WebRequest -Uri https://install.python-poetry.org -UseBasicParsing).Content | python -

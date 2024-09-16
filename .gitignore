@@ -1,0 +1,5 @@
+*.toml
+*.csv
+*.json
+*.log
+__pycache__/
